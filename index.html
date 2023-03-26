@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viagem dos sonhos</title>
+</head>
+<body>
+   <header>
+       <h1>Venha realizar a viagem dos sonhos</h1>
+   </header>
+   <section>
+       <h2>Conheça nossos pacotes</h2>
+       <h2>Venha para João Pessoa</h2>
+       <p>
+           João Pessoa é um município brasileiro, capital do estado da Paraíba. 
+           capital paraibana é a oitava cidade mais populosa da Região Nordeste e a 23ª do brasil.
+           Fundada em 5 de agosto de 1585 com o nome de Cidade Real de Nossa Senhora das Neves
+           terceira cidade mais antiga do Brasil, tendo sido fundada pela Cúpula da Fazenda Real. 
+           É conhecida como "Porta do Sol", devido ao fato de, no município, estar localizada a Ponta do Seixas. 
+           A cidade teve o seu centro histórico tombado pelo Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN) em 2007. 
+           <a href="https://pt.wikipedia.org/wiki/Jo%C3%A3o_Pessoa">Link</a>
+   </p> 
+   <figure>
+      <img src="img/DJI_0022.jpg" alt="Praias"
+      <figcaption>Paraíba Praias</figcaption>
+   </figure>
+   <figure>
+      <h2>Venha para Chapada</h2>
+      <p>
+         O Parque Nacional da Chapada dos Veadeiros é uma unidade de conservação brasileira 
+         de proteção integral à natureza localizada na região centro-oeste do estado de Goiás   
+         Até o final de maio de 2017, o parque abrangia uma área de 65 514 ha de cerrado de altitude.
+         O parque foi criado através do Decreto Nº 49.875 pelo então Presidente da República, Juscelino Kubitschek.
+         O povoamento da região começou em torno de 1750, com a implantação da propriedade do Sr. Francisco de Almeida, 
+         chamada de Fazenda Veadeiros <a href="https://pt.wikipedia.org/wiki/Parque_Nacional_da_Chapada_dos_Veadeiros">Link</a>
+
+      </p>
+      <img src="img/CHAPADA.jpg" alt="cachoeira no goias"
+      <figcaption>Chapada dos veadeiros</figcaption>
+   </figure>
+   <figure>
+      <h2>Venha para o Rio de Janeiro</h2>
+      <P>
+         Rio de Janeiro é uma das 27 unidades federativas do Brasil.
+         A cidade mais populosa é a sua capital homônima, polo da segunda maior metrópole do Brasil.
+         O produto interno bruto (PIB) do estado é o segundo maior do país.
+         enquanto o Índice de Desenvolvimento Humano (IDH) fluminense é o quarto mais elevado do Brasil.
+         O estado é formado por duas regiões morfologicamente distintas: a baixada e o planalto <a href="https://pt.wikipedia.org/wiki/Rio_de_Janeiro_(estado)">Link</a>
+
+      </P>
+      <img src="img/RJ.webp" alt="Cristo do alto"
+      <figcaption>Rio de Janeiro, praia da barra</figcaption>
+   </figure>
+   <section>
+      <video controls>
+       <source src="video/videoplayback.mp4" type="video/mp4" 
+       Seu navegador o formato do video. <a href="video/videoplayback.mp4">Clique aqui para baixar</a>
+      </video>
+      <br><br>
+   <section>
+      <h2>Taxas e Serviços</h2>
+      <p>veja nossas taxas para serviços</p>
+      <table border>
+         <caption>Descrição dos serviços e valores</caption>
+         <thead>
+         <tr>
+            <th>
+               Serviço
+            </th>
+            <th>
+               Valor
+            </th>
+         </tr>
+      </thead>
+         <td>
+            Reserva de Hotel
+         </td>
+         <td>
+            R$ 500,00
+         </td>
+         <tr>
+            <td>
+               Compra de passagem
+            </td>
+            <td>
+               R$ 250,00
+            </td>
+         </tr>
+         <td>
+            Aluguel de carros
+         </td>
+         <td>
+            R$ 50,00
+         </td>
+   </section>
+</body> 
+</html>
